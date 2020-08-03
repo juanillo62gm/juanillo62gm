@@ -2,6 +2,9 @@
 
 ### Connect with me
 
+- [Twitter][twitter]
+- [Discord][discord]
+- [Instagram][instagram]
 
 ### 🌎 My websites
 - This is my main [website][website] where I post all my projects.
@@ -10,12 +13,20 @@
 - On [store][store] you can get my latest themes.
 
 ### 👨‍💻 Languages
+- HTML5
+- Markdown
+- Javascript
+- Node.js
+- Boostrap
+- CSS - SCSS - SASS
 
 ### 🛠️ Tools
 - [Github Pages](https://pages.github.com/)
 - [Postman](https://www.postman.com/)
 - [VSCode](https://code.visualstudio.com/)
 - [Heroku](https://www.heroku.com/)
+- [Jekyll](https://jekyllrb.com/)
+- [Hugo](https://gohugo.io/)
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -35,3 +46,5 @@
 [repo]: https://repo.juanillo62gm.com
 [store]: https://store.juanillo62gm.com
 [twitter]: https://twitter.com/juanillo62gm
+[instagram]: https://twitter.com/juanillo62gm
+[discord]: https://discord.gg/jK8YwDf
