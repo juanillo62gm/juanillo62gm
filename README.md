@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there, I'm [Juanillo62gm][website] 👋
 
-<!--
-**juanillo62gm/juanillo62gm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me
 
-Here are some ideas to get you started:
+### My websites
+- This is my main [website][website] where I post all my projects.
+- On this [portfolio][portfolio] you can check all my skills.
+- Here is my iOS package [repository][repo].
+- On [store][store] you can get my latest themes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+
+### Tools
+
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+[website]: https://juanillo62gm.com
+[portfolio]: https://portfolio.juanillo62gm.com
+[repo]: https://repo.juanillo62gm.com
+[store]: https://store.juanillo62gm.com
+[twitter]: https://twitter.com/juanillo62gm
