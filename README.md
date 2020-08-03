@@ -16,6 +16,8 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+![Juanillo62gm's github stats](https://github-readme-stats.vercel.app/api?username=juanillo62gm&show_icons=true)
+
 [website]: https://juanillo62gm.com
 [portfolio]: https://portfolio.juanillo62gm.com
 [repo]: https://repo.juanillo62gm.com
