@@ -2,6 +2,7 @@
 
 ### Connect with me
 
+
 ### 🌎 My websites
 - This is my main [website][website] where I post all my projects.
 - On this [portfolio][portfolio] you can check all my skills.
@@ -11,6 +12,10 @@
 ### 👨‍💻 Languages
 
 ### 🛠️ Tools
+- [Github Pages](https://pages.github.com/)
+- [Postman](https://www.postman.com/)
+- [VSCode](https://code.visualstudio.com/)
+- [Heroku](https://www.heroku.com/)
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -21,9 +26,9 @@
 - [Overkill](https://juanillo62gm.com/projects/overkill/)
 <!-- BLOG-POST-LIST:END -->
 
-![Juanillo62gm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanillo62gm&show_icons=true)
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanillo62gm)](https://github.com/juanillo62gm/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/juanillo62gm"><img src="https://github-readme-stats.vercel.app/api?username=juanillo62gm&show_icons=true&include_all_commits=true&count_private=true" alt="Juanillo62gm's GitHub Stats"></a>
+</p>
 
 [website]: https://juanillo62gm.com
 [portfolio]: https://portfolio.juanillo62gm.com
