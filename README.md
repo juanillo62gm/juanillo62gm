@@ -14,6 +14,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DarkBoard XS - macOS](https://juanillo62gm.com/projects/darkboardxs-macos/)
+- [LightBoard XS - macOS](https://juanillo62gm.com/projects/lightboardxs-macos/)
+- [Ambilight](https://juanillo62gm.com/projects/ambilight/)
+- [Wi-Fi Hardware Monitor](https://juanillo62gm.com/projects/wifi-hardware-monitor/)
+- [Overkill](https://juanillo62gm.com/projects/overkill/)
 <!-- BLOG-POST-LIST:END -->
 
 ![Juanillo62gm's github stats](https://github-readme-stats.vercel.app/api?username=juanillo62gm&show_icons=true)
