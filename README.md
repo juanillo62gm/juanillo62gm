@@ -2,17 +2,17 @@
 
 ### Connect with me
 
-### My websites
+### 🌎 My websites
 - This is my main [website][website] where I post all my projects.
 - On this [portfolio][portfolio] you can check all my skills.
 - Here is my iOS package [repository][repo].
 - On [store][store] you can get my latest themes.
 
-### Languages
+### 👨‍💻 Languages
 
-### Tools
+### 🛠️ Tools
 
-### Blog posts
+### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [DarkBoard XS - macOS](https://juanillo62gm.com/projects/darkboardxs-macos/)
 - [LightBoard XS - macOS](https://juanillo62gm.com/projects/lightboardxs-macos/)
@@ -21,7 +21,9 @@
 - [Overkill](https://juanillo62gm.com/projects/overkill/)
 <!-- BLOG-POST-LIST:END -->
 
-![Juanillo62gm's github stats](https://github-readme-stats.vercel.app/api?username=juanillo62gm&show_icons=true)
+![Juanillo62gm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanillo62gm&show_icons=true)
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanillo62gm)](https://github.com/juanillo62gm/github-readme-stats)
 
 [website]: https://juanillo62gm.com
 [portfolio]: https://portfolio.juanillo62gm.com
