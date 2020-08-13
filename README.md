@@ -30,11 +30,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [DarkBoard XS - Android](https://juanillo62gm.com/projects/darkboardxs-android/)
+- [LightBoard XS - Android](https://juanillo62gm.com/projects/lightboardxs-android/)
 - [DarkBoard XS - macOS](https://juanillo62gm.com/projects/darkboardxs-macos/)
 - [LightBoard XS - macOS](https://juanillo62gm.com/projects/lightboardxs-macos/)
 - [Ambilight](https://juanillo62gm.com/projects/ambilight/)
-- [Wi-Fi Hardware Monitor](https://juanillo62gm.com/projects/wifi-hardware-monitor/)
-- [Overkill](https://juanillo62gm.com/projects/overkill/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
