@@ -37,10 +37,6 @@
 - [Ambilight](https://juanillo62gm.com/projects/ambilight/)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center">
-  <a href="https://github.com/juanillo62gm"><img src="https://github-readme-stats.vercel.app/api?username=juanillo62gm&show_icons=true&include_all_commits=true&count_private=true" alt="Juanillo62gm's GitHub Stats"></a>
-</p>
-
 [website]: https://juanillo62gm.com
 [portfolio]: https://portfolio.juanillo62gm.com
 [repo]: https://repo.juanillo62gm.com
