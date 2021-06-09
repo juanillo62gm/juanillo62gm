@@ -12,6 +12,7 @@
 - This is my main [website][website] where I post all my projects.
 - On this [portfolio][portfolio] you can check all my skills.
 - Here is my iOS package [repository][repo].
+- Check all my [themes][themes]
 - On [store][store] you can get my latest themes.
 
 ### 👨‍💻 Languages
@@ -42,6 +43,7 @@
 
 [website]: http://bit.ly/3a1GfB3
 [portfolio]: https://bit.ly/3is5CCV
+[themes]: https://bit.ly/2SiA33O
 [repo]: https://bit.ly/3cry7gv
 [store]: https://bit.ly/2RDoKTG
 [twitter]: http://bit.ly/2rwLh3H
