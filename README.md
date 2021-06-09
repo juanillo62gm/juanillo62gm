@@ -12,8 +12,7 @@
 - This is my main [website][website] where I post all my projects.
 - On this [portfolio][portfolio] you can check all my skills.
 - Here is my iOS package [repository][repo].
-- Check all my [themes][themes]
-- On [store][store] you can get my latest themes.
+- Check my [themes][themes] and get them at [store][store].
 
 ### 👨‍💻 Languages
 - HTML5
