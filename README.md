@@ -4,7 +4,9 @@
 
 - [Twitter][twitter]
 - [Discord][discord]
-- [Instagram][instagram]
+- [LinkedIn][linkedin]
+- [Instagram (Personal)][instagram]
+- [Instagram (Profesional)][instagrampro]
 
 ### 🌎 My websites
 - This is my main [website][website] where I post all my projects.
@@ -21,12 +23,13 @@
 - CSS - SCSS - SASS
 
 ### 🛠️ Tools
-- [Github Pages](https://pages.github.com/)
 - [Postman](https://www.postman.com/)
-- [VSCode](https://code.visualstudio.com/)
-- [Heroku](https://www.heroku.com/)
 - [Jekyll](https://jekyllrb.com/)
 - [Hugo](https://gohugo.io/)
+- [Heroku](https://www.heroku.com/)
+- [Docker](https://www.docker.com/)
+- [Github Pages](https://pages.github.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -37,10 +40,12 @@
 - [Ambilight](https://juanillo62gm.com/projects/ambilight/)
 <!-- BLOG-POST-LIST:END -->
 
-[website]: https://juanillo62gm.com
-[portfolio]: https://portfolio.juanillo62gm.com
-[repo]: https://repo.juanillo62gm.com
-[store]: https://store.juanillo62gm.com
-[twitter]: https://twitter.com/juanillo62gm
-[instagram]: https://twitter.com/juanillo62gm
-[discord]: https://discord.gg/jK8YwDf
+[website]: http://bit.ly/3a1GfB3
+[portfolio]: https://bit.ly/3is5CCV
+[repo]: https://bit.ly/3cry7gv
+[store]: https://bit.ly/2RDoKTG
+[twitter]: http://bit.ly/2rwLh3H
+[instagram]: http://bit.ly/2RR2Y9E
+[instagrampro]: https://bit.ly/34ZVQQu
+[discord]: https://bit.ly/308C5Eb
+[linkedin]: https://bit.ly/3g3Nhus
