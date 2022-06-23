@@ -14,23 +14,6 @@
 - Here is my iOS package [repository][repo].
 - Check my [themes][themes] and get them at [store][store].
 
-### 👨‍💻 Languages
-- HTML5
-- Markdown
-- Javascript
-- Node.js
-- Boostrap
-- CSS - SCSS - SASS
-
-### 🛠️ Tools
-- [Postman](https://www.postman.com/)
-- [Jekyll](https://jekyllrb.com/)
-- [Hugo](https://gohugo.io/)
-- [Heroku](https://www.heroku.com/)
-- [Docker](https://www.docker.com/)
-- [Github Pages](https://pages.github.com/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [DarkBoard XS - Android](https://juanillo62gm.com/projects/darkboardxs-android/)
