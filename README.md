@@ -9,10 +9,8 @@
 - [Instagram (Profesional)][instagrampro]
 
 ### 🌎 My websites
-- This is my main [website][website] where I post all my projects.
-- On this [portfolio][portfolio] you can check all my skills.
-- Here is my iOS package [repository][repo].
-- Check my [themes][themes] and get them at [store][store].
+- Here is my main [website][website]
+- Check my [themes][themes]
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
