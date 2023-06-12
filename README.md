@@ -6,7 +6,7 @@
 - [LinkedIn][linkedin]
 - [Instagram][instagram]
 
-### 🌎 My websites
+### Websites
 - Here is my main [website][website]
 - Check my [themes][themes]
 
