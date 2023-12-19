@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://github.com/juanillo62gm">
-    <img height=200 align="center" src="https://ghstats.juanillo62gm.com/api?username=juanillo62gm&theme=github_dark&card_width=400" />
+    <img height=200 align="center" src="https://ghstats.juanillo62gm.com/api?username=juanillo62gm&theme=github_dark&card_width=400&rank_icon=github" />
   </a>
 </p>
 
