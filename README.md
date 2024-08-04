@@ -8,12 +8,12 @@
 
 <p>
   <a href="https://github.com/juanillo62gm">
-  <img height=200 align="center" src="https://ghstats.juanillo62gm.com/api/top-langs/?username=juanillo62gm&layout=compact&theme=github_dark&langs_count=12&&hide=php,tsql,hack,g-code,mdx,antlr,plsql,perl,cmake,gap,plpgsql,objective-c,objective-c%2B%2B,c,c%2B%2B,ruby,java,python,ini,openscad,assembly,makefile&card_width=428" />
+  <img height=200 align="center" src="https://ghstats.juanillo62gm.com/api/top-langs/?username=juanillo62gm&layout=compact&theme=github_dark&langs_count=12&&hide=php,tsql,hack,g-code,mdx,antlr,plsql,perl,cmake,gap,plpgsql,objective-c,objective-c%2B%2B,c,c%2B%2B,ruby,java,python,ini,openscad,assembly,makefile,lua&card_width=428" />
   </a>
 </p>
 
 <p>
   <a href="https://github.com/juanillo62gm">
-  <img align="left" src="https://ghstats.juanillo62gm.com/api/wakatime?username=juanillo62gm&layout=compact&theme=github_dark&custom_title=VSCode, XCode and Android Studio" />
+  <img align="left" src="https://ghstats.juanillo62gm.com/api/wakatime?username=juanillo62gm&layout=compact&theme=github_dark&custom_title=VSCode, XCode and Android Studio&hide=other,c,groovy,ini,tsconfig,mdx,text,cocoapods,lua,font,css,toml,objective-c" />
   </a>
 </p>
