@@ -16,6 +16,6 @@
 
 <p>
   <a href="https://github.com/juanillo62gm">
-  <img align="left" src="https://ghstats.juanillo62gm.com/api/wakatime?username=juanillo62gm&layout=compact&theme=github_dark&custom_title=VSCode, XCode and Android Studio&hide=other,c,groovy,ini,tsconfig,mdx,text,cocoapods,lua,font,css,toml,objective-c" />
+  <img align="left" src="https://ghstats.juanillo62gm.com/api/wakatime?username=juanillo62gm&layout=compact&theme=github_dark&custom_title=VSCode | XCode | Android Studio&hide=other,c,groovy,ini,tsconfig,mdx,text,cocoapods,lua,font,css,toml,objective-c" />
   </a>
 </p>
