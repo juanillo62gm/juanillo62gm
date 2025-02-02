@@ -1,4 +1,4 @@
-# 🚀 Take a Look at My Projects!
+# 🚀 Take a Look at My Projects
 
 ## 🛴 Scooter Tools - App
 <p align="center">
